@@ -1,3 +1,3 @@
-panda
-scipy
+pandas
 streamlit
+plotly_express
